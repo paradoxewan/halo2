@@ -10,8 +10,8 @@
   "meteorBuildFlags": "--architecture os.linux.x86_64",
   "env": {
     "ROOT_URL": "halo.ayrtime.tv",
-    "PORT": "3000",
-    "MONGO_URL": "mongobd://localhost:3001/meteor"
+    "PORT": "5000",
+    "MONGO_URL": "mongobd://localhost:5001/meteor"
   },
   "server": {
     "host": "192.168.0.28",
