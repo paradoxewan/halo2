@@ -3,7 +3,7 @@
 #
 # 'meteor add' and 'meteor remove' will edit this file for you,
 # but you can also edit it by hand.
-
+babel-runtime
 autopublish@1.0.7
 less@2.7.9
 twbs:bootstrap
