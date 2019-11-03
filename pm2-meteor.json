@@ -14,7 +14,7 @@
     "MONGO_URL": "mongobd://localhost:3001/meteor"
   },
   "server": {
-    "host": "skynet",
+    "host": "skynet.local",
     "username": "ewan",
     "password": "RBTeeyKM142!",
     "deploymentDir": "/opt/meteor-apps",
