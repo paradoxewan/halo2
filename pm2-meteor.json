@@ -7,7 +7,7 @@
   "meteorSettingsLocation": "/Users/ewanrichardson/Documents/GitHub/halo2/settings.json",
   "meteorSettingsInRepo": false,
   "prebuildScript": "",
-  "meteorBuildFlags": "--architecture os.linux.x86_32",
+  "meteorBuildFlags": "--architecture os.linux.x86_64",
   "env": {
     "ROOT_URL": "halo.ayrtime.tv",
     "PORT": "3000",
@@ -20,7 +20,7 @@
     "deploymentDir": "/opt/meteor-apps",
     "loadProfile": "",
     "interpreter": "",
-    "exec_mode": "cluster_mode",
+    "exec_mode": "fork_mode",
     "instances": "1"
   }
 }
